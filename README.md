@@ -4,7 +4,11 @@
 
 <p style="display: flex; flex-direction: row; align-items: stretch;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=janFlueckiger&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
+</p>
+<p style="display: flex; flex-direction: row; align-items: stretch;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janFlueckiger&&theme=tokyonight" alt="rishavchanda" />
+</p>
+<p style="display: flex; flex-direction: row; align-items: stretch;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janFlueckiger&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
 </p>
 <!---
