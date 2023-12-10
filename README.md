@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Jan Flückiger | @janFlueckiger
 - 👀 I’m interested in music 🎶, sports 🏐(especially volleyball😍), drinking coffee ☕ and educating myself 📚
 - 🌱 I am currently an apprentice @Swisscom as application developer
+
+<hr>
+
 <div align="center">
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=janFlueckiger&show_icons=true&locale=en&theme=tokyonight"/>
