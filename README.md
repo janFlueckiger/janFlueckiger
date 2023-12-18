@@ -6,13 +6,9 @@
 
 <div align="center">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=janFlueckiger&show_icons=true&locale=en&theme=tokyonight"/>
-</p>
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=janFlueckiger&show_icons=true&locale=en&theme=tokyonight&hide_rank=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janFlueckiger&&theme=tokyonight"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janFlueckiger&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janFlueckiger&show_icons=true&locale=en&layout=pie&theme=tokyonight"/>
 </p>
 </div>
 <!---
