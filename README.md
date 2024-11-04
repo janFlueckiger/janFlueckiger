@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan Flückiger | @janFlueckiger
 - 👀 I’m interested in music 🎶, sports 🏐(especially volleyball😍), drinking coffee ☕ and educating myself 📚
-- 🌱 I am currently an apprentice @Swisscom as application developer
+- 🌱 I finished my apprenticeship @Swisscom as application developer | Applikationsentwickler EFZ
 
 <hr>
 
